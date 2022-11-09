@@ -1,0 +1,8 @@
+{
+  "ruleId": 1,
+  "parameterType": "userId",
+  "apiId": 1,
+  "burstRate": 10,
+  "averageRate": 5,
+  "rateLimitingAlgorithm": "TOKENBUCKET"
+}
